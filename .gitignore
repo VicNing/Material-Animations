@@ -33,5 +33,3 @@ out/
 .gradle
 build/**
 libraries/build/**
-
-*.md
