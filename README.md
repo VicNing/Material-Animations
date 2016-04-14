@@ -7,7 +7,7 @@
 3. Animate view changes within same activity.
 
 
-## 1. Transitions between Activities
+## 1. Transitions betw
 
 Animate existing activity layout **content**
 
